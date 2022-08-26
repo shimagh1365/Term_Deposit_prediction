@@ -1,1 +1,12 @@
-
+As part of the Data Scientists Team you are assigned to a new project. 
+In the first meeting with your new stakeholder you learn that she wants to sell more Term Deposits as they represent 
+a good sources of income for the bank and she has a KPI to meet by the end of the year (on Term Deposits).<br />  
+(A Term Deposit is a cash investment with a financial institution. 
+The customer’s money are invested for pre-agreed rate of interest over a fixed amount of time thus encouraging the customer to keep the money with the bank.
+The bank has various options of using this money to generate more profit: e.g. lend it.)<br />  
+You also learn that currently there is in place a set of business rules that are used to generate leads 
+(i.e. customers that should be contacted and proposed a Term Deposit) but the branch colleagues are reluctant to act based on these leads. 
+They lack the explanation of why a certain customer 
+should be contacted and thus the treatment rate is very low (a very small % of the leads are treated) and 
+the feedback for these leads is mostly negative (most of the time they flag the lead as not relevant). 
+Also there is no documentation for these business rules and the colleague that deployed them no longer works in the bank.
